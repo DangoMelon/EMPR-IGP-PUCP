@@ -9,7 +9,7 @@ dependencies:
   - netCDF4
   - matplotlib
   - jupyter-panel-proxy
-  - pyviz::holoviews
-  - pyviz::panel
-  - pyviz::bokeh
+  - holoviews
+  - panel
+  - bokeh
   - cmocean
