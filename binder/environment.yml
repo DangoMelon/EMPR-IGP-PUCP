@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python=3.8
   - xarray
-  - bokeh
   - selenium
   - jupyterlab
   - nodejs
@@ -14,4 +13,5 @@ dependencies:
   - jupyter-panel-proxy
   - pyviz::holoviews
   - pyviz::panel
+  - pyviz::bokeh
   - cmocean
