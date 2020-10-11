@@ -1,0 +1,17 @@
+name: empr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - xarray
+  - bokeh
+  - selenium
+  - jupyterlab
+  - nodejs
+  - firefox
+  - geckodriver
+  - matplotlib
+  - jupyter-panel-proxy
+  - pyviz::holoviews
+  - pyviz::panel
+  - cmocean
