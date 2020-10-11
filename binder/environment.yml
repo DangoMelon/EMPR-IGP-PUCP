@@ -4,11 +4,9 @@ channels:
 dependencies:
   - python=3.8
   - xarray
-  - selenium
   - jupyterlab
   - nodejs
-  - firefox
-  - geckodriver
+  - netCDF4
   - matplotlib
   - jupyter-panel-proxy
   - pyviz::holoviews
